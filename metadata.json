@@ -1,0 +1,5 @@
+{
+  "name": "Fluid Element Deformation Visualizer",
+  "description": "An interactive educational tool to visualize fluid mechanics concepts: linear deformation, angular deformation, and rotation based on velocity gradients.",
+  "requestFramePermissions": []
+}
